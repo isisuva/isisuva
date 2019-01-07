@@ -107,7 +107,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Academic Sharing Site hosted by ISIS UvA."
   location         : "Amsterdam"
-  email            :
+  email            : "taohu620@gmail.com, z.shi@uva.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
