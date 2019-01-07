@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "admin"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Academic Sharing Site hosted by ISIS UvA."
   location         : "Amsterdam"
