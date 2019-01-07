@@ -284,8 +284,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      classes: wide
+      layout: splash
+      #classes: wide
       author_profile: true
       read_time: true
       comments: # true
